@@ -1,4 +1,4 @@
-# assignment_1
+# pdf_application
 
 A new Flutter project.
 

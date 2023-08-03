@@ -1,6 +1,6 @@
 {
-    "name": "assignment_1",
-    "short_name": "assignment_1",
+    "name": "pdf_application",
+    "short_name": "pdf_application",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

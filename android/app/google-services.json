@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "624720666294",
+    "project_id": "pdfviewer-f951d",
+    "storage_bucket": "pdfviewer-f951d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624720666294:android:550dce9cc1aa52782b9017",
+        "android_client_info": {
+          "package_name": "com.example.pdf_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624720666294-kmlu55r35f5if1f5p2s62l0c2lmrumsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pdf_application",
+            "certificate_hash": "dab4b876a4368aece3540f5004ccd248807bcfab"
+          }
+        },
+        {
+          "client_id": "624720666294-kp408eqmn5a7jvlcers7jo5annstpv7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg1RPqc8VWWgmh5_0iXXMbo6uhdLL_cx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624720666294-kp408eqmn5a7jvlcers7jo5annstpv7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
